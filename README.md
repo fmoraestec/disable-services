@@ -1,0 +1,2 @@
+# disable-services
+win services
